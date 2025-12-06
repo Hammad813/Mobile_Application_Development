@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241029721520",
+    "project_id": "fooddelightapp",
+    "storage_bucket": "fooddelightapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241029721520:android:6a4d3d48818d7f8e727a75",
+        "android_client_info": {
+          "package_name": "com.example.mid_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdrrfLBxYfRosNtoPirt8Mhfq7HxpUxGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
